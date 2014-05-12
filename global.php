@@ -8,7 +8,7 @@
 
     session_start();
 
-    if ((USERNAME_REQUIRED == true) && (!isset($_SESSION["username"])) {
+    if ((USERNAME_REQUIRED == true) && (!isset($_SESSION["username"]))) {
         header("Location: /index.php");
         
         exit();
