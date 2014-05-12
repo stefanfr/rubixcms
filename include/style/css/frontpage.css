@@ -1,0 +1,59 @@
+
+
+.register{
+    background-color: rgba(66, 171, 210, 0.80);
+    margin: auto;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 400px;
+    height: 305px;
+    padding-top: 10px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.register form, .login form{
+    padding: 15px;
+}
+
+input[type="date"]:before {
+    content: attr(placeholder);
+    color: #aaa;
+}
+
+input[type="date"]:focus:before, input[type="date"]:valid:before {
+    content: "";
+}
+
+.register form input,.login form input{
+    margin-bottom: 5px;
+}
+
+.register form input[type="button"], .login form input[type="button"]{
+    float: left;
+    width: 44%;
+}
+
+.register form input[type="submit"], .login form input[type="submit"]{
+    float: right;
+    width: 44%;
+}
+
+.register .title, .login .title{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 25px;
+    padding-top: 10px;
+}
+
+#user-result, #pass-result, #passh-result, #mail-result{
+    position: relative;
+    margin-bottom: -18px;
+    top: 11px;
+    float: right;
+    right: 5px;
+    z-index: 300;
+}
+
