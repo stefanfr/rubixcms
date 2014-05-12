@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4cc94e17-4606-40b3-aaa6-fe3fe35b056f" name="Default" comment="fixed error&#10;">
+    <list default="true" id="4cc94e17-4606-40b3-aaa6-fe3fe35b056f" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Rubixcms.iws" />
@@ -13,7 +13,7 @@
     <file path="/config.php" changelist="4cc94e17-4606-40b3-aaa6-fe3fe35b056f" time="1398784182801" ignored="false" />
     <file path="/me.php" changelist="4cc94e17-4606-40b3-aaa6-fe3fe35b056f" time="1399630159006" ignored="false" />
     <file path="/style.css" changelist="4cc94e17-4606-40b3-aaa6-fe3fe35b056f" time="1399629924416" ignored="false" />
-    <file path="/Dummy.txt" changelist="4cc94e17-4606-40b3-aaa6-fe3fe35b056f" time="1399881362036" ignored="false" />
+    <file path="/Dummy.txt" changelist="4cc94e17-4606-40b3-aaa6-fe3fe35b056f" time="1399881515743" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -360,7 +360,11 @@
       <created>1399881316358</created>
       <updated>1399881316358</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="fixed error&#10;">
+      <created>1399881516770</created>
+      <updated>1399881516770</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
